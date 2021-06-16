@@ -6,13 +6,9 @@ paper: xxx
 
 ## Setup
 
-### Prerequisites
-- Linux
-- Python with numpy
-- NVIDIA GPU + CUDA 8.0 + CuDNNv5.1
-- TensorFlow 0.11
-
-### Getting Started
+### ResNet datasets
+- parametric: 600 cases
+- real-case: 6 cases
 
 
 ## Acknowledgments
