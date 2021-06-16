@@ -8,7 +8,7 @@ paper: xxx
 
 ### ResNet datasets
 - parametric: 600 cases
-- real-case: 6 cases
+- real-case: 6 cases of 575 are shared
 
 
 ## Acknowledgments
